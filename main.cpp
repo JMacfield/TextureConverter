@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Converter/TextureConverter.h"
+#include ".src/TextureConverter.h"
 #include <cassert>
 
 int main(int argc, char* argv[]) {
